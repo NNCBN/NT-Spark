@@ -26,15 +26,16 @@ Contact Information:
 
 3. Project Background
 - Background Description:
-Boot nodes are required for the Nervos Network to operate. These nodes maintain connections to other reachable network nodes. When a new node initiates synchronization for the first time, it would not know where to find full nodes for synchronization without specified boot nodes. These very boot nodes are currently operated primarily in data centers belonging to large corporations. These operators lack diversity and are subject to legal and economic influences. Creation of a new boot node that is operated not by a company in a data center, but regionally by an individual. Support for interested parties who wish to promote the decentralization of the NervosNetwork by operating a boot node. 
+Boot nodes are required for the Nervos Network to operate. These nodes maintain connections to other reachable network nodes. When a new node initiates synchronization for the first time, it would not know where to find full nodes for synchronization without specified boot nodes. These very boot nodes are currently operated primarily in data centers belonging to large corporations. These operators lack diversity and are subject to legal and economic influences. Creation of a new boot node that is operated not by a company in a data center, but regionally by an individual. Support for interested parties who wish to promote the decentralization of the NervosNetwork by operating a boot node themselves. 
 - Ecosystem Relevance: The widespread adoption of community boot nodes mitigates the consequences of potential problems with existing boot nodes. Individuals interested in doing so should have the opportunity to become boot node operators themselves. However, they must meet minimum requirements, particularly with regard to uninterrupted long-term operation and performance.
 
 4. Solution
 - Core Solution: How does the project address the above issues? 
-Transactions will be forwarded at high speed to other nodes via the node I operate.
+The first community bootnode is operated by me, the initiator of this NNCBN project, on a West African island. The fact that it is operating in that region already contributes to greater diversity among the existing bootnodes. I operate a fully synchronized network node in a location that can have a significant impact on transaction propagation. The island in the Atlantic is connected to the undersea cable between Brazil and Portugal. Historically, many South American connections have routed through North America to Europe or Asia. Here is a point in Africa that connects the user-heavy Central European region with South America. 
 - User Perspective: How do end users and developers use it? What are the results?
-
+Transactions will be forwarded at high speed. Additionally, the first NNCBN network node serves than as an additional hub for connections from West Africa. Pings to both South Africa and Central Europe show a latency of only ~80 ms, and ~200 ms to Australia and Brazil.
 - Differentiation: How does this differ from existing solutions?
+The first NNCBN network node represents a well-positioned diversification of full nodes. This presents an opportunity for valuable network diversification without being a customer of cloud giants like Amazon, Google, Microsoft, etc. The provider-side tunneling over vast distances is remarkable: ~80ms to Cape Town and ~80ms to Frankfurt are good examples. Adverse conditions or even outages at cloud giants (negative undertone, as centralization is not beneficial for various reasons) like Amazon are indeed rare, but they do occur—often with significant consequences—as the past has shown.
 
 5. Technical Approach
 - Technology Stack: Programming languages, frameworks, and toolchains used
