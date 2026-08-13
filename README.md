@@ -26,8 +26,8 @@ Contact Information:
 
 3. Project Background
 - Background Description:
-Boot nodes are required for the Nervos Network to operate. These nodes maintain connections to other reachable network nodes. When a new node initiates synchronization for the first time, it would not know where to find full nodes for synchronization without specified boot nodes. These very boot nodes are currently operated primarily in data centers belonging to large corporations. These operators lack diversity and are subject to legal and economic influences.
-Ecosystem Relevance:
+Boot nodes are required for the Nervos Network to operate. These nodes maintain connections to other reachable network nodes. When a new node initiates synchronization for the first time, it would not know where to find full nodes for synchronization without specified boot nodes. These very boot nodes are currently operated primarily in data centers belonging to large corporations. These operators lack diversity and are subject to legal and economic influences. Creation of a new boot node that is operated not by a company in a data center, but regionally by an individual. Support for interested parties who wish to promote the decentralization of the NervosNetwork by operating a boot node. 
+- Ecosystem Relevance: The widespread adoption of community boot nodes mitigates the consequences of potential problems with existing boot nodes. Individuals interested in doing so should have the opportunity to become boot node operators themselves. However, they must meet minimum requirements, particularly with regard to uninterrupted long-term operation and performance.
 
 4. Solution
 - Core Solution: How does the project address the above issues? 
