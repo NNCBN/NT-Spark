@@ -35,10 +35,10 @@ The first community bootnode is operated by me, the initiator of this NNCBN proj
 - User Perspective: How do end users and developers use it? What are the results?
 Transactions will be forwarded at high speed. Additionally, the first NNCBN network node serves than as an additional hub for connections from West Africa. Pings to both South Africa and Central Europe show a latency of only ~80 ms, and ~200 ms to Australia and Brazil.
 - Differentiation: How does this differ from existing solutions?
-The first NNCBN network node represents a well-positioned diversification of full nodes. This presents an opportunity for valuable network diversification without being a customer of cloud giants like Amazon, Google, Microsoft, etc. The provider-side tunneling over vast distances is remarkable: ~80ms to Cape Town and ~80ms to Frankfurt are good examples. Adverse conditions or even outages at cloud giants (negative undertone, as centralization is not beneficial for various reasons) like Amazon are indeed rare, but they do occur—often with significant consequences—as the past has shown.
+The first NNCBN network node represents a well-positioned diversification of full nodes. This presents an opportunity for valuable network diversification without being a customer of cloud giants like Amazon, Google, Microsoft, etc. The provider-side tunneling over vast distances is remarkable: ~80ms to Cape Town and ~80ms to Frankfurt are good examples. Adverse conditions or even outages at cloud giants (negative undertone, as centralization is not beneficial for various reasons) like Amazon are indeed rare, but they do occur—often with significant consequences. A large portion of the current infrastructure most likely runs on Ubuntu or Debian. Diversity creates reliability through redundancy: less common alternatives such as BSD should also exist. Even if not currently necessary, there may be system-wide vulnerabilities that do not exist in other systems. Hardware has been affected by vulnerabilities in the past. A prominent example of this was processors whose SRSO "INCEPTION" and "Spectre" vulnerabilities were mitigated through software updates. Newer processors starting with Zen 5 feature built-in native mitigation. Such a newer CPU is used to operate the first NNCBN.
 
 5. Technical Approach
-- Technology Stack: Programming languages, frameworks, and toolchains used
+- Technology Stack: AMD Zen5 processor, 
 
 - Architecture Overview: Core Modules and Their Relationships (Architecture Diagram or Flowchart May Be Included)
 
