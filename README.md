@@ -43,8 +43,10 @@ The first NNCBN network node represents a well-positioned diversification of ful
 AMD Zen5 processor, 16GB DDR5-RAM, 1024 GB SSD-HDD; 
 
 - Architecture Overview: Core Modules and Their Relationships (Architecture Diagram or Flowchart May Be Included)
+Qubes OS, template to run latest CKB linux-gnu (=>0.209.0), In future, there may also be other templates, such as those for system monitoring.
 
 - Key Technical Points: The Most Technically Challenging Aspects of the Project and Their Solutions
+Hardware Procurement, System Installation, Ongoing operarion, Software updates; Regular reporting on operations, ideally on social media, thereby sparking interest among others who also want to take on the operation of an NNCBN. And support by answering relevant questions.
 
 - Language: English
 
