@@ -52,6 +52,9 @@ Hardware Procurement, System Installation, Ongoing operarion, Software updates; 
 
 6. To-Do List
 - Break down by week: Week 1, Week 2, … (Recommended: 4–8 weeks, no more than 12 weeks)
+Week 1: Hardware Procurement, System Installation
+Week 2: Contract with the Internet service provider, node synchronisation
+
 
 - Weekly Goals: Specific tasks to be completed this week (not "continue development")
 
