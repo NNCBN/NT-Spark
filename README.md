@@ -66,16 +66,18 @@ Hardware Procurement, System Installation, Ongoing operarion, Software updates; 
 6. To-Do List
 - Break down by week: Week 1, Week 2, … (Recommended: 4–8 weeks, no more than 12 weeks)
 
-Week 1: Hardware Procurement, System Installation
+Week 1: Hardware Procurement, System Installation, Document each step for those interested; record practical experiences
 
 Week 2: Contract with the Internet service provider, node synchronisation
 
+Week Week 3: Create a social media account and share practical experiences from the installation and setup process there, Share insights on connections, data usage, and hardware utilization.
 - Weekly Goals: Specific tasks to be completed this week (not "continue development")
 
 Week 1: initial BIOS update, Qubes OS installation
 
 Week 2: Contract with the Internet service provider, Monthly prepaid payments are the norm; are automatic monthly bank payments possible?
 
+Week 3: Sharing information regarding the hardware and software decisions made and their implementation
 - Milestone Labels: Key milestones (e.g., MVP completion, start of testing, demo launch)
 
 7. Required Funding & Funding Breakdown
