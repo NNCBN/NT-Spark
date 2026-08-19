@@ -104,15 +104,17 @@ $60/month × 12 months = $720
 
 Hardware: AMD Zen5 processor, 16GB DDR5-RAM, 1024 GB SSD-HDD;
 
-Internet, Unlimited Data Usage
+Electricity consumption. Internet, Unlimited Data Usage.
 - Reasonableness: Aligned with the project scope and workload
 
+Software Updates are performed, and weekly reports are provided on details such as data usage and other optimization settings
 8. Deliverables + How to Verify
 A. Deliverables
 - Deliverables List: List, item by item, the deliverables to be provided upon project completion
 
 - Acceptance Criteria: What are the "completion criteria" for each deliverable? (Reproducible and verifiable)
 
+The network node is fully synchronized and continues to operate. Other nodes can see this NNCBN in the network connections and use it to initially synchronize newly configured nodes.
 - Format Guidelines: Code repositories, npm packages, documentation, demo URLs, videos, etc.
 
 B. How to Verify
