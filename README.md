@@ -108,10 +108,17 @@ Electricity consumption. Internet, Unlimited Data Usage.
 - Reasonableness: Aligned with the project scope and workload
 
 Software Updates are performed, and weekly reports are provided on details such as data usage and other optimization settings
+
 8. Deliverables + How to Verify
 A. Deliverables
 - Deliverables List: List, item by item, the deliverables to be provided upon project completion
 
+Hardware Purchase
+The Internet connection has been set up
+The hardware is running the latest BIOS version and Qubes OS.
+Node Software Settings
+Full Node Synchronization
+A record of all settings for interested Bootnode operators who also want to launch such a system.
 - Acceptance Criteria: What are the "completion criteria" for each deliverable? (Reproducible and verifiable)
 
 The network node is fully synchronized and continues to operate. Other nodes can see this NNCBN in the network connections and use it to initially synchronize newly configured nodes.
