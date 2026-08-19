@@ -70,7 +70,7 @@ Week 1: Hardware Procurement, System Installation, Document each step for those 
 
 Week 2: Contract with the Internet service provider, node synchronisation
 
-Week Week 3: Create a social media account and share practical experiences from the installation and setup process there, Share insights on connections, data usage, and hardware utilization.
+Week 3: Create a social media account and share practical experiences from the installation and setup process there, Share insights on connections, data usage, and hardware utilization.
 - Weekly Goals: Specific tasks to be completed this week (not "continue development")
 
 Week 1: initial BIOS update, Qubes OS installation
@@ -84,13 +84,27 @@ Week 3: Sharing information regarding the hardware and software decisions made a
 A. Funding Requirements
 - Total Amount Requested: Specific amount (USD)
 
+1620$
 - Single-Category Projects: (Purely technical development or purely user testing) If there is sufficient justification, you may apply for funding exceeding $1,000; however, the total cap for all project types remains at $2,000 and will not be adjusted. ** For applications exceeding $1,000, please provide a detailed explanation of why the project is structurally more complex than a standard single-category project and why the standard budget is insufficient to support delivery. The committee will evaluate each application on a case-by-case basis.
+
+Hardware, One-time initial payment $900
+I propose a quarterly payment for electricity and internet: $10 for electricity + $50 for internet = $60 × 3 months = $180 at the CKB-to-dollar exchange rate in effect at that time. So, the first payment, starting in October, covers the three months of October, November, and December.
 
 B. Funding Breakdown
 - Break it down item by item: List the use of funds by week or by category, clearly distinguishing between the technical and community components.
 
+Hardware, One-time initial payment $900
+
+Monthly Electricity $10
+
+Monthly Internet $50
+
+$60/month × 12 months = $720
 - Description of Use: What exactly is each fund used for?
 
+Hardware: AMD Zen5 processor, 16GB DDR5-RAM, 1024 GB SSD-HDD;
+
+Internet, Unlimited Data Usage
 - Reasonableness: Aligned with the project scope and workload
 
 8. Deliverables + How to Verify
