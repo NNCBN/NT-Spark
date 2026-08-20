@@ -120,10 +120,16 @@ A. Deliverables
 - Deliverables List: List, item by item, the deliverables to be provided upon project completion
 
 Hardware Purchase
+
 The Internet connection has been set up
-The hardware is running the latest BIOS version and Qubes OS.
+
+The hardware is running the latest BIOS version and Qubes OS. In the event of unexpected complications with Qubes OS, choosing a different operating system.
+
+
 Node Software Settings
+
 Full Node Synchronization
+
 A record of all settings for interested Bootnode operators who also want to launch such a system.
 - Acceptance Criteria: What are the "completion criteria" for each deliverable? (Reproducible and verifiable)
 
@@ -133,6 +139,7 @@ The network node is fully synchronized and continues to operate. Other nodes can
 B. How to Verify
 - Acceptance Process: How can the committee/community independently verify each deliverable?
 
+https://nodes.ckb.dev lists all permanently operational nodes. This one will appear as a dot in the Atlantic Ocean west of Senegal.
 - Non-code review verification: Can verification be completed without reviewing the code? (e.g., running tests, viewing demos, checking transaction hashes, reading documentation, etc.). This is a very critical point—if verification must rely on code review, it will be difficult for the committee, with its limited manpower, to cover everything.
 
 - Expected Output: What results should be seen when the validation passes? (e.g., command output, page display, test report)
