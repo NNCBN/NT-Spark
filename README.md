@@ -145,12 +145,14 @@ All steps will be documented, including instructions for future Bootnode operato
 https://nodes.ckb.dev lists all permanently operational nodes. This one will appear as a dot in the Atlantic Ocean west of Senegal. Performance monitoring is also documented and published.
 - Expected Output: What results should be seen when the validation passes? (e.g., command output, page display, test report)
 
+Fast transaction processing between South America and Europe. Point of contact for West Africa.
 - Environment Requirements: What environment is required? (e.g., operating system, dependencies, Node.js)
 
 A less commonly used Linux distribution with a focus on security was selected to create and promote diversity within the ecosystem.
 - Cost Control: Is the cost of validation manageable? (The committee/community will not spend a significant amount of time on validation.)
 
 Every node operator will be able to see this new community boot node in their network connections.
+
 9. Current State vs. Funded Work
 
 I'm already on site. I've done some research on the best hardware to purchase. The internet service will be set up in early October, with monthly fees. Electricity is billed monthly and is already available for use. If fiber-optic service becomes available, the switch will be initiated and implemented. 
