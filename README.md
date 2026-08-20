@@ -46,7 +46,7 @@ Creation of a new boot node that is operated not by a company and not hosted in 
 Transactions will be forwarded at high speed. Additionally, the first NNCBN network node serves than as an hub for connections from South America and West Africa. Pings to both South Africa and Central Europe show a latency of only ~80 ms, and ~200 ms to Australia and Brazil.
 - Differentiation: How does this differ from existing solutions?
 
-The first NNCBN network node represents a well-positioned diversification of full nodes. This presents an opportunity for valuable network diversification without being a customer of cloud giants like Amazon, Google, Microsoft, etc. The provider-side tunneling over vast distances is remarkable: ~80ms to Cape Town and ~80ms to Frankfurt are good examples. Adverse conditions or even outages at cloud giants (negative undertone, as centralization is not beneficial for various reasons) like Amazon are indeed rare, but they do occur—often with significant consequences. A large portion of the current infrastructure most likely runs on Ubuntu or Debian. Diversity creates reliability through redundancy: less common alternatives such as BSD should also exist. Even if not currently necessary, there may be system-wide vulnerabilities that do not exist in other systems. I have chosen Qubes-OS as the operating system because it is using "qubes", securely-isolated compartments and templates. Thereby offering flexibility and security. Hardware has been affected by vulnerabilities in the past. A prominent example of this was processors whose SRSO "INCEPTION" and "Spectre" vulnerabilities were mitigated through software updates. Newer processors starting with Zen 5 feature built-in native mitigation. Such a newer CPU will be used to operate the first NNCBN.
+The first NNCBN network node represents a well-positioned diversification of full nodes. This presents an opportunity for valuable network diversification without being a customer of cloud giants like Amazon, Google, Microsoft, etc. The provider-side tunneling over vast distances is remarkable: ~80ms to Cape Town and ~80ms to Frankfurt are good examples. Adverse conditions or even outages at cloud giants (negative undertone, as centralization is not beneficial for various reasons) like Amazon are indeed rare, but they do occur—often with significant consequences. A large portion of the current infrastructure most likely runs on Ubuntu or Debian. Diversity creates reliability through redundancy: less common alternatives such as BSD should also exist. Even if not currently necessary, there may be system-wide vulnerabilities that do not exist in other systems. I have chosen Qubes-OS as the operating system because it is using "qubes", securely-isolated compartments and templates. Thereby offering flexibility and security. Hardware has been affected by vulnerabilities in the past. A prominent example of this was processors whose SRSO "INCEPTION" and "Spectre" vulnerabilities were mitigated through software updates. Newer processors starting with Zen 5 feature built-in native mitigation. Such a newer CPU will be used to operate the first NNCBN. Software Updates are performed, and weekly reports are provided on details such as data usage and other optimization settings.
 
 5. Technical Approach
 - Technology Stack:
@@ -77,7 +77,7 @@ Week 1: initial BIOS update, Qubes OS installation
 
 Week 2: Contract with the Internet service provider, Monthly prepaid payments are the norm; are automatic monthly bank payments possible?
 
-Week 3: Sharing information regarding the hardware and software decisions made and their implementation
+Week 3: Sharing information regarding the hardware and software decisions made and their implementation. 
 - Milestone Labels: Key milestones (e.g., MVP completion, start of testing, demo launch)
 
 7. Required Funding & Funding Breakdown
@@ -109,7 +109,11 @@ Hardware: AMD Zen5 processor, 16GB DDR5-RAM, 1024 GB SSD-HDD;
 Electricity consumption. Internet, Unlimited Data Usage.
 - Reasonableness: Aligned with the project scope and workload
 
-Software Updates are performed, and weekly reports are provided on details such as data usage and other optimization settings
+The chosen location where the first NNCBN will operate provides exceptionally good intercontinental connectivity for the Nervos network. Transactions are routed very quickly.
+
+Internet and electricity prices are comparable to international rates. 
+
+The hardware is state-of-the-art but was selected to ensure sufficient performance with low power consumption. 
 
 8. Deliverables + How to Verify
 A. Deliverables
