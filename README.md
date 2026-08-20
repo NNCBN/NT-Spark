@@ -87,8 +87,10 @@ A. Funding Requirements
 1620$
 - Single-Category Projects: (Purely technical development or purely user testing) If there is sufficient justification, you may apply for funding exceeding $1,000; however, the total cap for all project types remains at $2,000 and will not be adjusted. ** For applications exceeding $1,000, please provide a detailed explanation of why the project is structurally more complex than a standard single-category project and why the standard budget is insufficient to support delivery. The committee will evaluate each application on a case-by-case basis.
 
-Hardware, One-time initial payment $900
-I propose a quarterly payment for electricity and internet: $10 for electricity + $50 for internet = $60 × 3 months = $180 at the CKB-to-dollar exchange rate in effect at that time. So, the first payment, starting in October, covers the three months of October, November, and December.
+Hardware, One-time initial payment $900 September 2026.
+
+I propose a quarterly payment for electricity and internet: $10 for electricity + $50 for internet = $60 × 3 months = $180 at the CKB-to-dollar exchange rate in effect at that time. The first quarterly payment starting in October, covers the three months of October, November, and December. The second quarterly payment in January 2027 is for January, February, and March 2027. The third quarterly payment in April 2027 is for April, May, and June 2027, and the fourth quarterly payment in July 2027 is for July, August, and September.
+
 
 B. Funding Breakdown
 - Break it down item by item: List the use of funds by week or by category, clearly distinguishing between the technical and community components.
