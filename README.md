@@ -55,30 +55,31 @@ AMD Zen5 processor, 16GB DDR5-RAM, 1024 GB SSD-HDD;
 
 - Architecture Overview: Core Modules and Their Relationships (Architecture Diagram or Flowchart May Be Included)
 
-Qubes OS, template to run latest CKB linux-gnu (=>0.209.0), In future, there may also be other templates, such as those for system monitoring.
+Qubes OS, template to run latest CKB linux-gnu (>=0.209.0), In future, there may also be other templates, such as those for system monitoring.
 
 - Key Technical Points: The Most Technically Challenging Aspects of the Project and Their Solutions
 
-Hardware Procurement, System Installation, Ongoing operarion, Software updates; Regular reporting on operations, ideally on social media, thereby sparking interest among others who also want to take on the operation of an NNCBN. And support by answering relevant questions.
+Hardware Procurement, System Installation, Ongoing operarion, Software updates; Regular reporting on operations, ideally on social media, thereby sparking interest among others who also want to take on the operation of an NNCBN. And support by answering relevant questions there.
 
 - Language: English
 
 6. To-Do List
 - Break down by week: Week 1, Week 2, … (Recommended: 4–8 weeks, no more than 12 weeks)
 
-Week 1: Hardware Procurement, System Installation, Document each step for those interested; record practical experiences
+Week 1: Hardware Procurement, System Installation, Document each step and practical experiences for those interested.
 
-Week 2: Contract with the Internet service provider, node synchronisation
+Week 2: Contract with the Internet service provider, node synchronisation.
 
-Week 3: Create a social media account and share practical experiences from the installation and setup process there, Share insights on connections, data usage, and hardware utilization.
+Week 3: Create a socialmedia account and share practical experiences from the installation and setup process there, Share insights on connections, data usage, and hardware utilization.
 - Weekly Goals: Specific tasks to be completed this week (not "continue development")
 
-Week 1: initial BIOS update, Qubes OS installation
+Week 1: Hardware: Check Configuration, initial BIOS update, Qubes OS installation
 
-Week 2: Contract with the Internet service provider, Monthly prepaid payments are the norm; are automatic monthly bank payments possible?
+Week 2: Contract with the Internet service provider, Monthly prepaid payments are the norm; If possible, set up automatic monthly payments.
 
 Week 3: Sharing information regarding the hardware and software decisions made and their implementation. 
 - Milestone Labels: Key milestones (e.g., MVP completion, start of testing, demo launch)
+End of September: The operating system is installed and up to date. Early October: The CKB node is installed and synchronizing: It connects primarily to Santiago, South America (Google), and uses Cape Town, Africa (Amazon) as a fallback.
 
 7. Required Funding & Funding Breakdown
 A. Funding Requirements
