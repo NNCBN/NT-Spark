@@ -129,8 +129,7 @@ The Internet connection has been set up
 
 The hardware is running the latest BIOS version and Qubes OS. In the event of unexpected complications with Qubes OS, choosing a different operating system.
 
-
-Node Software Settings
+Node Software Settings, Become Discoverable by CKB Node Probe: https://nodes.ckb.dev/getConnectedInstruction
 
 Full Node Synchronization
 
