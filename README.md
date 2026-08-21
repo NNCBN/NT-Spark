@@ -66,7 +66,7 @@ Hardware Procurement, System Installation, Ongoing operarion, Software updates; 
 6. To-Do List
 - Break down by week: Week 1, Week 2, … (Recommended: 4–8 weeks, no more than 12 weeks)
 
-Week 1: Hardware Procurement, System Installation, Document each step and practical experiences for those interested.
+Week 1: Hardware Procurement, System Installation, Documenting each step and practical experiences for those interested.
 
 Week 2: Contract with the Internet service provider, node synchronisation.
 
@@ -79,7 +79,10 @@ Week 2: Contract with the Internet service provider, Monthly prepaid payments ar
 
 Week 3: Sharing information regarding the hardware and software decisions made and their implementation. 
 - Milestone Labels: Key milestones (e.g., MVP completion, start of testing, demo launch)
-End of September: The operating system is installed and up to date. Early October: The CKB node is installed and synchronizing: It connects primarily to Santiago, South America (Google), and uses Cape Town, Africa (Amazon) as a fallback.
+
+End of September: The operating system is installed and up to date. 
+
+Early October: The CKB node is installed and synchronizing: It connects primarily to Santiago, South America (Google), and uses Cape Town, Africa (Amazon) as a fallback.
 
 7. Required Funding & Funding Breakdown
 A. Funding Requirements
