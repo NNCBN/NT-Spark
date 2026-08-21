@@ -55,7 +55,7 @@ AMD Zen5 processor, 16GB DDR5-RAM, 1024 GB SSD-HDD;
 
 - Architecture Overview: Core Modules and Their Relationships (Architecture Diagram or Flowchart May Be Included)
 
-Qubes OS, template to run latest CKB linux-gnu (>=0.209.0), In future, there may also be other templates, such as those for system monitoring.
+Qubes OS, template to run latest CKB linux-gnu (>=0.209.0). Installation without Docker. In future, there may also be other templates, such as those for system monitoring.
 
 - Key Technical Points: The Most Technically Challenging Aspects of the Project and Their Solutions
 
