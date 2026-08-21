@@ -145,13 +145,17 @@ B. How to Verify
 All steps will be documented, including instructions for future Bootnode operators to follow. This information will be publicly available, and I will post updates on progress and actions taken on social media.
 - Non-code review verification: Can verification be completed without reviewing the code? (e.g., running tests, viewing demos, checking transaction hashes, reading documentation, etc.). This is a very critical point—if verification must rely on code review, it will be difficult for the committee, with its limited manpower, to cover everything.
 
-https://nodes.ckb.dev lists all permanently operational nodes. This one will appear as a dot in the Atlantic Ocean west of Senegal. Performance monitoring is also documented and published.
+https://nodes.ckb.dev lists permanently operational nodes. This one will appear as a dot in the Atlantic Ocean west of Senegal. Performance monitoring is also documented and published.
 - Expected Output: What results should be seen when the validation passes? (e.g., command output, page display, test report)
 
 Fast transaction processing between South America and Europe. Point of contact for West Africa.
 - Environment Requirements: What environment is required? (e.g., operating system, dependencies, Node.js)
 
-A less commonly used Linux distribution with a focus on security was selected to create and promote diversity within the ecosystem.
+A less commonly used Linux distribution with a focus on security was selected to create and promote diversity within the ecosystem. 
+
+Resource-Efficient Logging Settings: toml [logger] filter = "error"
+
+Remove [rpc] modules like "Debug" and "Miner": https://website-sooty-chi-72.vercel.app/lessons/19-full-node-setup
 - Cost Control: Is the cost of validation manageable? (The committee/community will not spend a significant amount of time on validation.)
 
 Every node operator will be able to see this new community boot node in their network connections.
