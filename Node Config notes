@@ -1,3 +1,13 @@
 Node Config notes
+
+1) remove Alert as supported protocol
 https://github.com/nervosnetwork/ckb/commit/cdfde29e45dfbe9443be66083241ebc1acca9fe6
-remove Alert as supported protocol
+
+2) Installation guide
+https://doc.qubes-os.org/en/latest/user/downloading-installing-upgrading/installation-guide.html
+
+3) ckb 0.210.0 release 2026-09-17
+https://github.com/nervosnetwork/ckb/releases/tag/v0.210.0
+
+4) Qubes OS 4.3.2-rc1 testing release. Consider testing this release candidate and waiting for the final release version.
+Qubes OS 4.3.2-rc1
